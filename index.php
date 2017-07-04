@@ -1,5 +1,7 @@
 <?php
 
+    date_default_timezone_set('Asia/Kolkata');
+    
     // Include the DirectoryLister class
     require_once('resources/DirectoryLister.php');
 
